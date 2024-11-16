@@ -1,0 +1,2 @@
+comando
+ssh -i "vockey.pem" ec2-user@ec2-52-5-234-64.compute-1.amazonaws.com
